@@ -1,1 +1,1 @@
-# depkoyment_bert_model
+# deployment_bert_model
